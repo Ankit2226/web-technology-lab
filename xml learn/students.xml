@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+<students>
+    <student>
+        <id>28</id>
+        <name>Ankit Bhosale</name>
+        <course>Computer Science</course>
+        <email>ankit123@gmail.com</email>
+        <marks>90</marks>
+        <cgpa>9.5</cgpa>
+    </student>
+    <student>
+        <id>30</id>
+        <name>Harsh Parab</name>
+        <course>Electronics</course>
+        <email>harsh789@gmail.com</email>
+        <marks>80</marks>
+        <cgpa>8.5</cgpa>
+    </student>
+    <student>
+        <id>32</id>
+        <name>vikrant kamble</name>
+        <course>Mechanical Engineering</course>
+        <email>vikrant456@gmail.com</email>
+        <marks>200</marks>
+        <cgpa>9.9</cgpa>
+    </student>
+     <student>
+        <id>28</id>
+        <name>ravi</name>
+        <course>Computer Science</course>
+        <email>ankit123@gmail.com</email>
+        <marks>100</marks>
+        <cgpa>9.3</cgpa>
+    </student>
+    <student>
+        <id>30</id>
+        <name>rushi Parab</name>
+        <course>Electronics</course>
+        <email>harsh789@gmail.com</email>
+        <marks>70</marks>
+        <cgpa>7.5</cgpa>
+    </student>
+    <student>
+        <id>32</id>
+        <name> aditya joshi </name>
+        <course>Mechanical Engineering</course>
+        <email>vikrant456@gmail.com</email>
+        <marks>50</marks>
+        <cgpa>5.5</cgpa>
+    </student> 
+    <student>
+        <id>28</id>
+        <name>nikhil Bhosale</name>
+        <course>Computer Science</course>
+        <email>ankit123@gmail.com</email>
+        <marks>70</marks>
+        <cgpa>8.3</cgpa>
+    </student>
+    <student>
+        <id>30</id>
+        <name>vishvajeet</name>
+        <course>Electronics</course>
+        <email>harsh789@gmail.com</email>
+           <marks>73</marks>
+        <cgpa>8.3</cgpa>
+    </student>
+    <student>
+        <id>32</id>
+        <name>vijay</name>
+        <course>Mechanical Engineering</course>
+        <email>vikrant456@gmail.com</email>
+        <marks>93</marks>
+        <cgpa>9.3</cgpa>
+    </student>
+     <student>
+        <id>12</id>
+        <name>vijay shinde</name>
+        <course>Mechanical Engineering</course>
+        <email>vikrant456@gmail.com</email>
+        <marks>83</marks>
+        <cgpa>8.3</cgpa>
+    </student>
+
+
+
+</students>

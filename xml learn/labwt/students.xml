@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="students.css"?>
+<students>
+    <student>
+        <id>28</id>
+        <name>Ankit Bhosale</name>
+        <age>20</age>
+        <class>TY A</class>
+        <batch>T2</batch>
+        <CGPA>8.5</CGPA>
+        <address>
+            <city>Pune</city>
+            <state>Maharashtra</state>
+            <country>India</country>
+        </address>
+        <contact>
+            <phone>93XXXXXXX</phone>
+            <email>ankitbhosale100@gmail.com</email>
+        </contact>
+        <skills>
+            <skill>Java</skill>
+            <skill>Python</skill>
+            <skill>Flutter</skill>
+            <skill>React Native</skill>
+        </skills>
+        <projects>
+            <project>
+                <name>Sign Language Detection</name>
+                <description>Detects sign language using Python and ML.</description>
+            </project>
+            <project>
+                <name>Online Shopping App</name>
+                <description>An app to buy products online.</description>
+            </project>
+        </projects>
+        <achievements>
+            <achievement>Winner of Hackathon</achievement>
+            <achievement>Winner of Coding Competition</achievement>
+        </achievements>
+    </student>
+
+    <student>
+        <id>29</id>
+        <name>Vikrant Kamble</name>
+        <age>20</age>
+        <class>TY A</class>
+        <batch>T2</batch>
+        <CGPA>8.5</CGPA>
+        <address>
+            <city>Pune</city>
+            <state>Maharashtra</state>
+            <country>India</country>
+        </address>
+        <contact>
+            <phone>93XXXXXXX</phone>
+            <email>vikrantkamble100@gmail.com</email>
+        </contact>
+        <skills>
+            <skill>Java</skill>
+            <skill>Python</skill>
+            <skill>Flutter</skill>
+        </skills>
+        <projects>
+            <project>
+                <name>Sign Language Detection</name>
+                <description>Detects sign language using Python and ML.</description>
+            </project>
+            <project>
+                <name>Online Shopping App</name>
+                <description>An app to buy products online.</description>
+            </project>
+        </projects>
+        <achievements>
+            <achievement>Winner of Hackathon</achievement>
+            <achievement>Winner of Coding Competition</achievement>
+        </achievements>
+    </student>
+</students>

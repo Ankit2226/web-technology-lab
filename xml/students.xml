@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="students.css"?>
+<students>
+    <student>
+        <id>28</id>
+        <name>Ankit Bhosale</name>
+        <age>20</age>
+        <class>TY A</class>
+        <batch>T2</batch>
+        <CGPA>8.5</CGPA>
+        <address>
+            <city>Pune</city>
+            <state>Maharashtra</state>
+            <country>India</country>
+        </address>
+        <contact>
+            <phone>93XXXXXXX</phone>
+            <email>ankitbhosale100@gmail.com</email>
+        </contact>
+        <skills>
+            <skill>Java</skill>
+            <skill>Python</skill>
+            <skill>Android Studio</skill>
+            <skill>Flutter</skill>
+            <skill>React Native Cli</skill>
+        </skills>
+        <projects>
+            <project>
+                <name>Sign language Detection</name>
+                <description>It is a Python program which uses cv2 and mediapipe to detect the sign language of a person.</description>
+                <technology>Python, cv2, ML, Google Teachable Machine</technology>
+            </project>
+            <project>
+                <name>Online Shopping App</name>
+                <description>It is a web application used to buy products online.</description>
+                <technology>Kotlin, XML, Retrofit, Volley, MVVM, DI, Firebase Firestore</technology>
+            </project>
+        </projects>
+        <achievements>
+            <achievement>Winner of Hackathon</achievement>
+            <achievement>Winner of Coding Competition</achievement>
+            <achievement>Winner of Project Competition</achievement>
+        </achievements>
+    </student>
+    
+    <student>
+        <id>29</id>
+        <name>Vikrant Kamble</name>
+        <age>20</age>
+        <class>TY A</class>
+        <batch>T2</batch>
+        <CGPA>8.5</CGPA>
+        <address>
+            <city>Pune</city>
+            <state>Maharashtra</state>
+            <country>India</country>
+        </address>
+        <contact>
+            <phone>93XXXXXXX</phone>
+            <email>vikrantkamble100@gmail.com</email>
+        </contact>
+        <skills>
+            <skill>Java</skill>
+            <skill>Python</skill>
+            <skill>Android Studio</skill>
+            <skill>Flutter</skill>
+            <skill>React Native Cli</skill>
+        </skills>
+        <projects>
+            <project>
+                <name>Sign Language Detection</name>
+                <description>It is a Python program which uses cv2 and mediapipe to detect the sign language of a person.</description>
+                <technology>Python, cv2, ML, Google Teachable Machine</technology>
+            </project>
+            <project>
+                <name>Online Shopping App</name>
+                <description>It is a web application used to buy products online.</description>
+                <technology>Kotlin, XML, Retrofit, Volley, MVVM, DI, Firebase Firestore</technology>
+            </project>
+        </projects>
+        <achievements>
+            <achievement>Winner of Hackathon</achievement>
+            <achievement>Winner of Coding Competition</achievement>
+            <achievement>Winner of Project Competition</achievement>
+        </achievements>
+    </student>
+
+    <student>
+        <id>30</id>
+        <name>Rohit Mali</name>
+        <age>20</age>
+        <class>TY A</class>
+        <batch>T2</batch>
+        <CGPA>8.5</CGPA>
+        <address>
+            <city>Pune</city>
+            <state>Maharashtra</state>
+            <country>India</country>
+        </address>
+        <contact>
+            <phone>93XXXXXXX</phone>
+            <email>rohitmali100@gmail.com</email>
+        </contact>
+        <skills>
+            <skill>Java</skill>
+            <skill>Python</skill>
+            <skill>Android Studio</skill>
+            <skill>Flutter</skill>
+            <skill>React Native Cli</skill>
+        </skills>
+        <projects>
+            <project>
+                <name>Sign Language Detection</name>
+                <description>It is a Python program which uses cv2 and mediapipe to detect the sign language of a person.</description>
+                <technology>Python, cv2, ML, Google Teachable Machine</technology>
+            </project>
+            <project>
+                <name>Online Shopping App</name>
+                <description>It is a web application used to buy products online.</description>
+                <technology>Kotlin, XML, Retrofit, Volley, MVVM, DI, Firebase Firestore</technology>
+            </project>
+        </projects>
+        <achievements>
+            <achievement>Winner of Hackathon</achievement>
+            <achievement>Winner of Coding Competition</achievement>
+            <achievement>Winner of Project Competition</achievement>
+        </achievements>
+    </student>
+</students>

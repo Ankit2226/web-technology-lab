@@ -1,0 +1,101 @@
+/* General Page Styling */
+students {
+    display: block;
+    font-family: Arial, sans-serif;
+    background: #f8f9fa;
+    padding: 20px;
+}
+
+/* Student Card */
+student {
+    display: block;
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px auto;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 60%;
+}
+
+/* Title Formatting */
+name {
+    display: block;
+    font-size: 22px;
+    font-weight: bold;
+    color: #007bff;
+    margin-bottom: 5px;
+}
+
+/* Basic Info */
+id, age, class, batch, CGPA {
+    display: inline-block;
+    font-size: 16px;
+    color: #555;
+    margin-right: 10px;
+}
+
+/* Address Formatting */
+address {
+    display: block;
+    font-size: 14px;
+    color: #333;
+    margin-top: 5px;
+    padding: 8px;
+    background: #e9ecef;
+    border-radius: 5px;
+}
+
+/* Contact Section */
+contact {
+    display: block;
+    font-size: 14px;
+    padding: 8px;
+    background: #e3f2fd;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+/* Skills Section */
+skills {
+    display: block;
+    margin-top: 10px;
+}
+
+skill {
+    display: inline-block;
+    background: #28a745;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-right: 5px;
+}
+
+/* Projects */
+projects {
+    display: block;
+    margin-top: 15px;
+}
+
+project {
+    display: block;
+    background: #ffc107;
+    padding: 8px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+/* Achievements */
+achievements {
+    display: block;
+    margin-top: 15px;
+}
+
+achievement {
+    display: block;
+    background: #17a2b8;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
