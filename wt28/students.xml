@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+<students>
+    <student>
+        <id>101</id>
+        <name>John Doe</name>
+        <course>Computer Science</course>
+        <email>john.doe@example.com</email>
+    </student>
+    <student>
+        <id>102</id>
+        <name>Jane Smith</name>
+        <course>Electronics</course>
+        <email>jane.smith@example.com</email>
+    </student>
+    <student>
+        <id>103</id>
+        <name>Michael Johnson</name>
+        <course>Mechanical Engineering</course>
+        <email>michael.johnson@example.com</email>
+    </student>
+</students>
